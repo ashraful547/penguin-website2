@@ -1,0 +1,28 @@
+.half-width img{
+    width: 100%;
+    
+}
+.font-size{
+    font-size: 70px;
+}
+.size{
+    height: 450px;
+    
+}
+.size-2{
+    height: 450px;
+}
+.size-3{
+    height: 450px;
+}
+.image-size{
+    height: 500px;
+    width: 650px;
+}
+.icon-size{
+    width: 65%;
+    height: 95%;
+}
+.font-style{
+    font-size: 40px;
+}
